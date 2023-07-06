@@ -18,6 +18,6 @@
 <a href="https://twitter.com/humalect">Twitter</a>
 </p>
 <p align="center">
-<a href="bit.ly/tdn-community"><img src="https://img.shields.io/badge/Join_Us-_slack-purple" alt="Join slack"></a>
+<a href="https://humalect.com/the-deployers-network"><img src="https://img.shields.io/badge/Join_Us-_slack-purple" alt="Join slack"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
 <a href="https://humalect.com"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website Humalect.com"></a>
